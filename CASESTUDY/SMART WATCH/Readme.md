@@ -20,5 +20,6 @@ A LED display is a flat panel display that uses an array of light-emitting diode
 A GSM modem is a specialized type of modem which accepts a SIM card, and operates over a subscription to a mobile operator, just like a mobile phone.
 
 
-![DIGITALWATCH](https://user-images.githubusercontent.com/98824204/154840560-3b1de079-cbfc-40c6-bb88-d6066c7913a0.png)
+![DIGITALWATCH](https://user-images.githubusercontent.com/98824204/154855609-f37522b4-174d-407a-816e-e01f313efc34.png)
+
 
