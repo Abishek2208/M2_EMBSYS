@@ -33,10 +33,10 @@ Can get broken easily.
 # 4W and 1H
 What - A digital clock to see current time.
 
-Why - To get to know about electric circuits better.
+Why - To get to know about electronic circuits better.
 
 When - Whenever needed, one should be able to see the time.
 
-Where - Wherever he is.
+Where - To an individual wrist or wall
 
 
