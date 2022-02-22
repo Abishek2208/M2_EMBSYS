@@ -1,4 +1,4 @@
-# SMART WATCH
+# DIGITAL  WATCH
  A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use, while an associated smartphone app provides for management and telemetry.It is very comfort and easy to use.
 # Description
 It Displays Time in hours and Minutes.
