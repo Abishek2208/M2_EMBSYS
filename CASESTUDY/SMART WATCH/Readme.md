@@ -1,4 +1,5 @@
 # SMART WATCH
+## INTRODUCTION
  A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use, while an associated smartphone app provides for management and telemetry.It is very comfort and easy to use.
  
 ## TEMPERATURE SENSOR 
@@ -21,5 +22,7 @@ A GSM modem is a specialized type of modem which accepts a SIM card, and operate
 
 
 ![DIGITALWATCH](https://user-images.githubusercontent.com/98824204/154855609-f37522b4-174d-407a-816e-e01f313efc34.png)
+
+## APPLICATION 
 
 
