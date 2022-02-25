@@ -14,7 +14,7 @@
           Display
           Battery wires, soldering iron, a switch and 10K ohm resistance(for a button), and a batter jack. 
           Preparing for Android
-          Other components may be included in smart watch
+          Other components may be included like temperature sensor, motion sensor,etc,..
 
 ## COMPONENTS 
 ## TEMPERATURE SENSOR 
