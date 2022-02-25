@@ -1,42 +1,15 @@
-# DIGITAL  WATCH
- A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use, while an associated smartphone app provides for management and telemetry.It is very comfort and easy to use.
-# Description
-It Displays Time in hours and Minutes.
-It Should be able to match the timezones as required.
+# TRAMITTER AND RECIEVER FOR MICROCONTROLLERS
+## 1.	Introduction:
 
-# High Level Requirements
-ID	Description	Category
-HLR_01	Adding Hours and Minutes	Software
-HLR_02	Understanding Atmega328	Software
-# Low Level Requirements
-ID	Description
-LLR_01	Circuit Design
-LLR_02	Simulation
+    Communication between multiple controllers is almost a must when it comes to large projects.
+    So, in this Lab we’ll investigate in brief the use of the atmega328, PIC16F877a 
+    and the Arduino Uno in some communication scenarios.
+    Also come across a few widely used communication protocols such as I2C, SPI.
 
-# SWOT ANALYSIS
-# Strengths
+## 2.	Objectives
 
-Able to Reset the time.
-Real time time display.
-Can adjust hours and minutes to ones need.
-# Weakness
-
-Not able to Load Seconds.
-# Opportunities
-
-Can add Alarm
-Can add Date Display
-# Threats
-
-Lack of technology.
-Can get broken easily.
-# 4W and 1H
-What - A digital clock to see current time.
-
-Why - To get to know about electronic circuits better.
-
-When - Whenever needed, one should be able to see the time.
-
-Where - To an individual wrist or wall
-
-
+    • Explore the communication between multiple microcontrollers.
+    • Use Visual Studio Code.
+    • Using SIMULIDE,Proteus as a simulator for such a communication.
+    • Use the Serial communication.
+![image](https://user-images.githubusercontent.com/94225184/144241120-0b9c442f-328e-4a43-8b93-0d1c1bcf3db1.png)
