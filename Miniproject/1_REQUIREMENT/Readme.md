@@ -50,5 +50,15 @@ Using software like visual studio code and simulIDE in c programming.
 # HIGH LEVEL REQUIREMENT:
 |ID|DESCRIPTION|
 |:-|:----------|
+|H01|ATMEGA328|
+|H02|RESISTOR|
+|H03|PUSH UP|
+|H04|LED|
 
+# LOW LEVEL REQUIREMENT:
+|ID|DESCRIPTION|
+|:-|:----------|
+|L01|INPUT SHALL GIVEN|
+|L02|SETTING BAUD RATE|
+|L03|ENABLING TRANSMITTER AND RECIEVER|
             
