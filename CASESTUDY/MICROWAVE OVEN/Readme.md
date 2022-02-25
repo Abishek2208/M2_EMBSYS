@@ -5,6 +5,12 @@ A microwave oven (commonly referred to as a microwave) is an electric oven that 
 electromagnetic radiation in the microwave frequency range. This induces polar molecules in the food to rotate and produce 
 thermal energy in a process known as dielectric heating.
 
+## REQUIREMENT
+      Arduino micro-controller
+      Bluetooth
+      Display
+      Battery wires, soldering iron, a switch and 10K ohm resistance(for a button), and a batter jack. 
+      Preparing for Android
 
 ![Microwave Oven Block Diagram](https://user-images.githubusercontent.com/98824204/155756216-567260c4-564e-4028-8898-5d1b56c81cee.png)
 
