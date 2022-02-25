@@ -11,4 +11,3 @@
     • Use Visual Studio Code.
     • Using SIMULIDE,Proteus as a simulator for such a communication.
     • Use the Serial communication.
-![image](https://user-images.githubusercontent.com/94225184/144241120-0b9c442f-328e-4a43-8b93-0d1c1bcf3db1.png)
