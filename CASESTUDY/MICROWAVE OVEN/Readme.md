@@ -36,3 +36,8 @@ Cuts off the power supply by switching off if temperature exceeds certain limit.
 Heats and cools the system according to the temperature with the help of microcontroller
 ## MicroController
 Performs all the important operations and helps our oven to work correctly without any damages by controlling all the inputs and outputs accordingly.
+
+## APPLICATION
+Because of their speed and convenience, microwave ovens have become an indispensable part of modern kitchens. Many developments in the microwave market and allied industries are taking place fairly rapidly. For example, foods and utensils designed specially for microwave cooking have become a huge business. New features will also be introduced in microwaves themselves, including computerized storage of recipes that the consumer will be able to recall at the touch of a button. The display and programmability of the ovens will also be improved, and combination ovens capable of cooking with microwaves as well as by conventional methods will become a standard household product.
+
+
