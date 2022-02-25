@@ -3,9 +3,7 @@
  A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use, while an associated smartphone app provides for management and telemetry.It is very comfort and easy to use.
  
 ## FEATURES:
-         Arduino board is a micro-processor and a storage, and there’s only one input method : a button. 
-         Bluetooth is to communicate with other devices, and the battery would be necessary for power. 
-         I’ll install an Android app for collecting or editing various RSS and system information and for notification on the Android device.
+     Arduino board is a micro-processor and a storage, and there’s only one input method : a button. Bluetooth is to communicate with other devices, and the battery would be necessary for power. I’ll install an Android app for collecting or editing various RSS and system information and for notification on the Android device.
 
 ## REQUIREMENT:Hardware parts for smart watch
           Arduino micro-controller
