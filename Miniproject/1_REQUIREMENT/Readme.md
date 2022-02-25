@@ -33,17 +33,17 @@ Data driven:Outputs can be imprecise
             Misinterpretations        
 
 # 5W'S AND 1H
-What :
+## What :
 Communication between multiple controllers is almost a must when it comes to large projects
-Why :
+## Why :
 because the configurability of both the data format and the speeds at which it is transmitted/received
-When :
+## When :
 The main purpose of a transmitter and receiver line for each device is to transmit and receive serial data intended for serial communication.
-Where:
+## Where:
 UART is one of the most simple and most commonly used Serial Communication techniques.
-Who:
+## Who:
 Embedded systems, microcontrollers, and computers mostly use UART as a form of device-to-device hardware communication protocol
-How:
+## How:
 Using software like visual studio code and simulIDE in c programming.
 
 ## REQUIREMENTS:
