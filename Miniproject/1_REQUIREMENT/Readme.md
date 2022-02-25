@@ -52,7 +52,7 @@ Using software like visual studio code and simulIDE in c programming.
 |:-|:----------|
 |H01|ATMEGA328|
 |H02|RESISTOR|
-|H03|PUSH UP|
+|H03|SWITCH|
 |H04|LED|
 
 # LOW LEVEL REQUIREMENT:
