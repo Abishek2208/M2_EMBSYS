@@ -38,7 +38,7 @@ A GSM modem is a specialized type of modem which accepts a SIM card, and operate
 
 
 
-![DIGITALWATCH](https://user-images.githubusercontent.com/98824204/154855609-f37522b4-174d-407a-816e-e01f313efc34.png)
+![DIGITALWATCH](https://user-images.githubusercontent.com/98824204/155753672-13221149-f5a8-4f6d-ac24-08c7af9c2035.png)
 
 ## APPLICATIONS
 ## Initial display:
