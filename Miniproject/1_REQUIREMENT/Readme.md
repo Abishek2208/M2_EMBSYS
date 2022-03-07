@@ -8,14 +8,14 @@
 
     • Explore the communication between multiple microcontrollers.
     • Use Visual Studio Code.
-    • Using SIMULIDE,Proteus as a simulator for such a communication.
+    • Using SIMULIDE and Proteus as a simulator for such a communication.
     • Use the Serial communication.
     
 # SWOT ANALYSIS
 
 ## Strength
 Model based:As precise as the designer wants it to be.
-Data driven:Requires less or no domain knowledge.
+Data driven:Requires knowledge.
 
 ## Weakness
 Model based:Requires detailed domain knowledge.
