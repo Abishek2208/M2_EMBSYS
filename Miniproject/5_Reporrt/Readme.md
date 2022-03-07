@@ -61,5 +61,8 @@ Using software like visual studio code and simulIDE in c programming.
 |L01|INPUT SHALL GIVEN|
 |L02|SETTING BAUD RATE|
 |L03|ENABLING TRANSMITTER AND RECIEVER|
+
+![UART USING ATMEGA328](https://user-images.githubusercontent.com/98824204/157064159-f121ca07-d7ee-417c-9f95-4e8d1c92323b.png)
+
             
 
