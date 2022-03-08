@@ -8,14 +8,14 @@
 
     • Explore the communication between multiple microcontrollers.
     • Use Visual Studio Code.
-    • Using SIMULIDE and Proteus as a simulator for such a communication.
+    • Using SIMULIDE,Proteus as a simulator for such a communication.
     • Use the Serial communication.
     
 # SWOT ANALYSIS
 
 ## Strength
 Model based:As precise as the designer wants it to be.
-Data driven:Requires knowledge.
+Data driven:Requires less or no domain knowledge.
 
 ## Weakness
 Model based:Requires detailed domain knowledge.
@@ -61,4 +61,25 @@ Using software like visual studio code and simulIDE in c programming.
 |L01|INPUT SHALL GIVEN|
 |L02|SETTING BAUD RATE|
 |L03|ENABLING TRANSMITTER AND RECIEVER|
+
+![UART USING ATMEGA328](https://user-images.githubusercontent.com/98824204/157064159-f121ca07-d7ee-417c-9f95-4e8d1c92323b.png)
+
+## REQUIREMENTS:
+# HIGH LEVEL REQUIREMENT:
+|ID|DESCRIPTION|o/p|
+|:-|:----------|:--|
+|H01|ATMEGA328|IMPLEMENTED|
+|H02|RESISTOR|IMPLEMENTED|
+|H03|SWITCH|IMPLEMENTED|
+|H04|LED|IMPLEMENTED|
+
+# LOW LEVEL REQUIREMENT:
+|ID|DESCRIPTION|o/p|
+|:-|:----------|:--|
+|L01|INPUT SHALL GIVEN|IMPLEMENTED|
+|L02|SETTING BAUD RATE|IMPLEMENTED|
+|L03|ENABLING TRANSMITTER AND RECIEVER|IMPLEMENTED|
+
+
             
+
